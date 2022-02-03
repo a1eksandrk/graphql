@@ -1,0 +1,1 @@
+# GraphQL simple sandbox for projects
